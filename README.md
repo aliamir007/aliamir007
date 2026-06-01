@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-end Developer | MERN SPECIALIST
+Front-end Developer | Responsive UI
 
 
 ## 🌐 Socials:
