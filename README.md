@@ -1,6 +1,6 @@
 # 💫 About Me:
-Front-end Developer | Responsive UI
-
+I'm a Front-End Developer who loves building fast, clean, and user-friendly web experiences using React, JavaScript, HTML, and CSS. I care deeply about writing maintainable code and sweat the small stuff — from component structure to load times.
+I'm expanding into full-stack development with Node.js, Express, and MongoDB, and enjoy connecting the dots between a great UI and a solid backend.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aliamir4726) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ali Amir) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ali_amir007tbh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ali.amirafaq007@gmail.com) 
