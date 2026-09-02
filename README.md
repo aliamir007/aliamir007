@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Front-End Developer who loves building fast, clean, and user-friendly web experiences using React, JavaScript, HTML, and CSS. I care deeply about writing maintainable code and sweat the small stuff — from component structure to load times.
+I'm a MERN STACK Developer who loves building fast, clean, and user-friendly web experiences using React, JavaScript, and build API integration. I care deeply about writing maintainable code and sweat the small stuff — from component structure to load times.
 I'm expanding into full-stack development with Node.js, Express, and MongoDB, and enjoy connecting the dots between a great UI and a solid backend.
 
 ## 🌐 Socials:
